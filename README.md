@@ -1,2 +1,69 @@
 # Space911-Repository
 Space911'in Meetime Adlı Ürün Repositorysidir.
+
+-Takım İsmi
++Space911
+
+   Ürün İle İlgili Bilgiler
+-Takım Elemanları
++Firdevs Elif Çiftcier: Scrum Master/Developer
+
++Taha Furkan Cengiz:Product Owner/Developer
+
++Melek Mahmutoğlu:Developer
+
++Muhsin Yaşar: Product Owner/Developer 
+
+-Ürün İsmi
++Meetime
+
+-Ürün Açıklaması
++Meetime uygulamamız ile ortak ilgi alanlarına sahip benzer konumdaki insanların iletişim kurmasını, reelde görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki network alanı yaratmasını sağlayacağız. Uygulamanın ilk sprintinde yazılımcıların arkadaşlık ilişkilerini güçlendirmesi ve online platformlardan öğrenilen bilgilerin reelde birlikte pratiğe dönüştürülmesi bölümünün tamamlanması hedeflenmektedir.
+
+-Ürün Özellikleri
+
++Konuma göre iletişim
+
++İlgi alanındaki kişilerle tanışma imkanı
+
++Birlikte öğrenme/eğlenme fırsatı
+
++Network sağlama 
+
+-Hedef Kitle
+
++online yerine reelde yazılım öğrenmeye istekli kişiler
+
++Şehrindeki network alanından faydalanmak isteyen kişiler
+
+
+-Product Backlog URL
+
+-Miro Backlog Board
+
+-Sprint 1
+
+-Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+-Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+-Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
+
+-Sprint board update: Sprint board screenshotları: Backlog 1 Backlog 2 Backlog 3
+
+-Ürün Durumu: Ekran görüntüleri: Screenshot 1 Screenshot 2
+
+-Sprint Review: Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+
+-Sprint Retrospective:
+
+Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+Unit test'ler için ayrılan efor/saat arttırılmalı
+-Diğer Notlar:
