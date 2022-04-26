@@ -5,7 +5,9 @@ Space911'in Meetime Adlı Ürün Repositorysidir.
 +Space911
 
    Ürün İle İlgili Bilgiler
+   
 -Takım Elemanları
+
 +Firdevs Elif Çiftcier: Scrum Master/Developer
 
 +Taha Furkan Cengiz:Product Owner/Developer
