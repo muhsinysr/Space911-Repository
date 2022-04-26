@@ -45,7 +45,7 @@ Space911'in Meetime Adlı Ürün Repositorysidir.
 
 -Sprint 1
 
--İlk sprintte uygulamanın UI UX arayüzüne karar verilecek. Uygulamanın genel hatları üzerinde çalışılacak.
+-İlk sprintte uygulamanın UI UX arayüzüne karar verilecek ve hazırlıklamaya başlanacak. Uygulamanın genel hatları üzerinde çalışılacak.
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
@@ -61,11 +61,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 -Ürün Durumu: Ekran görüntüleri: Screenshot 1 Screenshot 2
 
--Sprint Review: Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
-
+-Sprint Review: Alınan kararlar: 
 -Sprint Retrospective:
 
-Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-Unit test'ler için ayrılan efor/saat arttırılmalı
 -Diğer Notlar:
