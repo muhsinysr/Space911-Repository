@@ -8,19 +8,19 @@ Space911'in Meetime Adlı Ürün Repositorysidir.
    
 -Takım Elemanları
 
-+Firdevs Elif Çiftcier: Scrum Master/Developer
++Firdevs Elif Çiftcier: Scrum Master
 
-+Taha Furkan Cengiz:Product Owner/Developer
++Taha Furkan Cengiz:Product Owner
 
 +Melek Mahmutoğlu:Developer
 
-+Muhsin Yaşar: Product Owner/Developer 
++Muhsin Yaşar: Developer 
 
 -Ürün İsmi
 +Meetime
 
 -Ürün Açıklaması
-+Meetime uygulamamız ile ortak ilgi alanlarına sahip benzer konumdaki insanların iletişim kurmasını, reelde görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki network alanı yaratmasını sağlayacağız. Uygulamanın ilk sprintinde yazılımcıların arkadaşlık ilişkilerini güçlendirmesi ve online platformlardan öğrenilen bilgilerin reelde birlikte pratiğe dönüştürülmesi bölümünün tamamlanması hedeflenmektedir.
++Meetime uygulamamız ile ortak ilgi alanlarına sahip yakın konumdaki insanların iletişim kurmasını, gerçek hayatta görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki network alanı yaratmasını sağlayacağız. Uygulamanın ilk sprintinde yazılımcıların arkadaşlık ilişkilerini güçlendirmesi ve online platformlardan öğrenilen bilgilerin gerçek hayatta birlikte pratiğe dönüştürülmesi bölümünün tamamlanması hedeflenmektedir.
 
 -Ürün Özellikleri
 
@@ -45,7 +45,7 @@ Space911'in Meetime Adlı Ürün Repositorysidir.
 
 -Sprint 1
 
--Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+-İlk sprintte uygulamanın UI UX arayüzüne karar verilecek. Uygulamanın genel hatları üzerinde çalışılacak.
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
