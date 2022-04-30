@@ -42,6 +42,7 @@ Space911'in Meetime Adlı Ürün Repositorysidir.
 -Product Backlog URL
 
 -Miro Backlog Board
+https://miro.com/app/board/uXjVO6AgV6o=/ 
 
 -Sprint 1
 
