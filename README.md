@@ -4,20 +4,17 @@ Space911'in Meetime Adlı Ürün Repositorysidir.
 # Takım İsmi
 Takım Space-911
 
-   Ürün İle İlgili Bilgiler
+# Ürün İle İlgili Bilgiler
    
--Takım Elemanları
+# Takım Elemanları
 
-+Firdevs Elif Çiftcier: Scrum Master
+* Firdevs Elif Çiftcier: Scrum Master
+* Taha Furkan Cengiz:Product Owner
+* Melek Mahmutoğlu:Developer
+* Muhsin Yaşar: Developer 
 
-+Taha Furkan Cengiz:Product Owner
-
-+Melek Mahmutoğlu:Developer
-
-+Muhsin Yaşar: Developer 
-
--Ürün İsmi
-+Meetime
+# Ürün İsmi
+ --Meetime--
 
 -Ürün Açıklaması
 +Meetime uygulamamız ile ortak ilgi alanlarına sahip yakın konumdaki insanların iletişim kurmasını, gerçek hayatta görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki network alanı yaratmasını sağlayacağız. Uygulamanın ilk sprintinde yazılımcıların arkadaşlık ilişkilerini güçlendirmesi ve online platformlardan öğrenilen bilgilerin gerçek hayatta birlikte pratiğe dönüştürülmesi bölümünün tamamlanması hedeflenmektedir.
