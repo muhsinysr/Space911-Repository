@@ -47,5 +47,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 * **Ürün Durumu:** Ekran görüntüleri: Screenshot 1 Screenshot 2
 * **Sprint Review:** Alınan kararlar: 
 * **Sprint Retrospective:**
+
 **-Diğer Notlar:**
 * N/A
