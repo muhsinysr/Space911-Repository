@@ -6,40 +6,34 @@ Takım Space-911
 
 # Ürün İle İlgili Bilgiler
    
-# Takım Elemanları
+## Takım Elemanları
 
 * Firdevs Elif Çiftcier: Scrum Master
-* Taha Furkan Cengiz:Product Owner
-* Melek Mahmutoğlu:Developer
+* Taha Furkan Cengiz: Product Owner
+* Melek Mahmutoğlu: Developer
 * Muhsin Yaşar: Developer 
 
-# Ürün İsmi
+## Ürün İsmi
  --Meetime--
 
--Ürün Açıklaması
-+Meetime uygulamamız ile ortak ilgi alanlarına sahip yakın konumdaki insanların iletişim kurmasını, gerçek hayatta görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki network alanı yaratmasını sağlayacağız. Uygulamanın ilk sprintinde yazılımcıların arkadaşlık ilişkilerini güçlendirmesi ve online platformlardan öğrenilen bilgilerin gerçek hayatta birlikte pratiğe dönüştürülmesi bölümünün tamamlanması hedeflenmektedir.
+## Ürün Açıklaması
+* Meetime uygulamamız ile ortak ilgi alanlarına sahip yakın konumdaki insanların iletişim kurmasını, gerçek hayatta görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki network alanı yaratmasını sağlayacağız. 
 
--Ürün Özellikleri
+## Ürün Özellikleri
 
-+Konuma göre iletişim
+* Konuma göre iletişim
+* İlgi alanındaki kişilerle tanışma imkanı
+* Birlikte öğrenme/eğlenme fırsatı
+* Network sağlama 
 
-+İlgi alanındaki kişilerle tanışma imkanı
+## Hedef Kitle
 
-+Birlikte öğrenme/eğlenme fırsatı
+* Online yerine reelde yazılım öğrenmeye istekli kişiler
+* Şehrindeki network alanından faydalanmak isteyen kişiler
 
-+Network sağlama 
+## Product Backlog URL
 
--Hedef Kitle
-
-+online yerine reelde yazılım öğrenmeye istekli kişiler
-
-+Şehrindeki network alanından faydalanmak isteyen kişiler
-
-
--Product Backlog URL
-
--Miro Backlog Board
-https://miro.com/app/board/uXjVO6AgV6o=/ 
+[Miro Backlog Board](https://miro.com/app/board/uXjVO6AgV6o=/)
 
 -Sprint 1
 
