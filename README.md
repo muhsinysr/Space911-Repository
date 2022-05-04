@@ -1,5 +1,5 @@
 # Space911-Repository
-Space911'in Meetime Adlı Ürün Repositorysidir.
+Space-911'in Meetime Adlı Ürün Repositorysidir.
 
 # Takım İsmi
 Takım Space-911
