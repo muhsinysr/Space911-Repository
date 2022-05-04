@@ -35,25 +35,17 @@ Takım Space-911
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVO6AgV6o=/)
 
--Sprint 1
-
--İlk sprintte uygulamanın UI UX arayüzüne karar verilecek ve hazırlıklamaya başlanacak. Uygulamanın genel hatları üzerinde çalışılacak.
-
-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
-
--Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
--Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+# Sprint 1
+* **Sprint Notları:** İlk sprintte uygulamanın UI UX arayüzüne karar verilecek ve hazırlıklamaya başlanacak. Uygulamanın genel hatları üzerinde çalışılacak.
+* **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
+**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+* **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
--Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
-
--Sprint board update: Sprint board screenshotları: Backlog 1 Backlog 2 Backlog 3
-
--Ürün Durumu: Ekran görüntüleri: Screenshot 1 Screenshot 2
-
--Sprint Review: Alınan kararlar: 
--Sprint Retrospective:
-
--Diğer Notlar:
+* **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
+* **Sprint board update:** Sprint board screenshotları: Backlog 1 Backlog 2 Backlog 3
+* **Ürün Durumu:** Ekran görüntüleri: Screenshot 1 Screenshot 2
+* **Sprint Review:** Alınan kararlar: 
+* **Sprint Retrospective:**
+**-Diğer Notlar:**
+* N/A
