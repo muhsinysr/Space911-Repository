@@ -27,7 +27,7 @@ Takım Space-911
 * Network sağlama 
 
 ## Hedef Kitle
-
+* Şehrinde ortak aktivite yapmak isteyen kişiler 
 * Online yerine reelde yazılım öğrenmeye istekli kişiler
 * Şehrindeki network alanından faydalanmak isteyen kişiler
 
