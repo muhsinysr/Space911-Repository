@@ -34,7 +34,8 @@ Takım Space-911
 ## Product Backlog URL
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVO6AgV6o=/)
- [ciz.io kanvas](https://app.ciz.io/canvases/space911-yalin-kanvas/lean-canvas/preview )
+
+[ciz.io kanvas](https://app.ciz.io/canvases/space911-yalin-kanvas/lean-canvas/preview )
 
 # Sprint 1
 * **Sprint Notları:** İlk sprintte uygulamanın UI UX arayüzüne karar verilip ve tasarımın ana şeması belirlenmiştir. Uygulamanın prototipi hazırlandı. Uygulama 2.sprintte kodlama aşamasına hazır hale geldi.
