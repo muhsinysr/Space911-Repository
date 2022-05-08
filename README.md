@@ -34,11 +34,12 @@ Takım Space-911
 ## Product Backlog URL
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVO6AgV6o=/)
+ [ciz.io kanvas](https://app.ciz.io/canvases/space911-yalin-kanvas/lean-canvas/preview )
 
 # Sprint 1
-* **Sprint Notları:** İlk sprintte uygulamanın UI UX arayüzüne karar verilecek ve hazırlıklamaya başlanacak. Uygulamanın genel hatları üzerinde çalışılacak.
-* **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
-* **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+* **Sprint Notları:** İlk sprintte uygulamanın UI UX arayüzüne karar verilip ve tasarımın ana şeması belirlenmiştir. Uygulamanın prototipi hazırlandı. Uygulama 2.sprintte kodlama aşamasına hazır hale geldi.
+* **Sprint içinde tamamlanması tahmin edilen puan:** 140 Puan
+* **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 140 ile başlaması gerektiğine karar verildi.
 * **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
