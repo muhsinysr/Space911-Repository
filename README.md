@@ -57,12 +57,17 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Ekran Görütüleri8](https://user-images.githubusercontent.com/85318885/167298556-4d0148f4-77f8-4ba5-a7d1-259f10f09ed4.jpeg)
 ![Ekran Görütüleri9)](https://user-images.githubusercontent.com/85318885/167298558-84229cc3-9dc6-473d-a219-19e8a0066e14.jpeg)
 
-* 
 * **Sprint Review:** Alınan kararlar: 
-* **Sprint Retrospective:**
+Ürüne uygun isim bulundu ve logo tasarlandı.Uygulama tasarımında ana şema belirlendi. Uygulamaya eklenecek özellikler belirlendi. Prototip olarak ürün tasarlandı ve üründe kullanılacak renk skalası belirlendi.  İkinci sprint için hazırlıklar tamamlandı, uygulamanın kodlama aşamasına geçmesi karar verildi.  Ekstra koyulması gereken özellikler belirlendi.  Sprint Review katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
 
-**-Diğer Notlar:**
-* N/A
+
+* **Sprint Retrospective:**
+* Uzaktan çalışma koşulları zorlasa da ekip içi istenilen dosyalar zamanında geldi ve ekip içi iletişim sağlıklı ilerledi.
+* Ekip toplantılara hazırlıklı ve zamanında katılım sağladı, ürün ilerlemesi için araştırmalarını ve fikirlerini rahatça sundu.
+* Ürün özellikleri açıkça belirtildiği için tasarım kısmında ilerleme katedildi.
+* Bayram tatili sebebiyle bu sprintte 3 gün ara verildi.
+* Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alındı, birlikte kod yazma konusunda araştırma devam ediyor.
+
 
 # Sprint 2
 
