@@ -45,7 +45,7 @@ Takım Space-911
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 * **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Meet, Slack ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
-[Sprint 1: Daily Scrum Space191.](https://github.com/FiElCi/Space911-Repository/files/8647050/1.Space191.DailyScrum.docx)
+[Daily Scrum Space191 Chats](https://github.com/FiElCi/Space911-Repository/files/8647050/1.Space191.DailyScrum.docx)
 
 
 * **Sprint board update:** Sprint board screenshotları: Backlog 1 Backlog 2 Backlog 3
