@@ -36,6 +36,7 @@ Takım Space-911
 [Miro Backlog Board](https://miro.com/app/board/uXjVO6AgV6o=/)
 
 [ciz.io kanvas](https://app.ciz.io/canvases/space911-yalin-kanvas/lean-canvas/preview )
+![kanvas](https://user-images.githubusercontent.com/99040081/167455672-4f421c15-a464-4b2f-af6c-d1a447dc569f.PNG)
 
 # Sprint 1
 * **Sprint Notları:** İlk sprintte uygulamanın UI UX arayüzüne karar verilip ve tasarımın ana şeması belirlenmiştir. Uygulamanın prototipi hazırlandı. Uygulama 2.sprintte kodlama aşamasına hazır hale geldi.
@@ -47,7 +48,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 * **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Meet, Slack ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
 [Sprint 1: Daily Scrum Space191.](https://github.com/FiElCi/Space911-Repository/files/8647050/1.Space191.DailyScrum.docx)
 
-* **Sprint board update:** Sprint board screenshotları: Backlog 1 Backlog 2 Backlog 3
+* **Sprint board update:** Sprint board screenshotları: 
+![sprint1](https://user-images.githubusercontent.com/99040081/167455903-c94cad06-8775-414b-93a2-e840acfaea0e.PNG)
+![Burndown1](https://user-images.githubusercontent.com/99040081/167455912-49289d2b-9581-42c1-951d-bb5a1e163f3f.PNG)
+![Ekran Alıntısı](https://user-images.githubusercontent.com/99040081/167455919-b9958518-8a91-4d4a-ba1c-fce598ca6f58.PNG)
+
 * **Ürün Durumu:** Ekran görüntüleri: ![Ekran Görüntüleri1](https://user-images.githubusercontent.com/85318885/167298162-11ae95ab-b995-40db-9e80-4a61ce90b654.jpeg), ![Ekran Görütüleri2](https://user-images.githubusercontent.com/85318885/167298546-8a71448d-438f-42fe-801c-57ad6bde7af1.jpeg)
 ![Ekran Görütüleri3](https://user-images.githubusercontent.com/85318885/167298548-6e48cb94-ca43-4b7c-9074-15eeb6e6954d.jpeg)
 ![Ekran Görütüleri4](https://user-images.githubusercontent.com/85318885/167298549-17bc7543-a29a-442a-85de-354af55db60d.jpeg)
