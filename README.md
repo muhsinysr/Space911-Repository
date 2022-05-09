@@ -49,6 +49,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 [Sprint 1: Daily Scrum Space191.](https://github.com/FiElCi/Space911-Repository/files/8647050/1.Space191.DailyScrum.docx)
 
 * **Sprint board update:** Sprint board screenshotları: 
+
 ![sprint1](https://user-images.githubusercontent.com/99040081/167455903-c94cad06-8775-414b-93a2-e840acfaea0e.PNG)
 ![Burndown1](https://user-images.githubusercontent.com/99040081/167455912-49289d2b-9581-42c1-951d-bb5a1e163f3f.PNG)
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/99040081/167455919-b9958518-8a91-4d4a-ba1c-fce598ca6f58.PNG)
