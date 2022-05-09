@@ -74,6 +74,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 * Bayram tatili sebebiyle bu sprintte 3 gün ara verildi.
 * Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alındı, birlikte kod yazma konusunda araştırma devam ediyor.
 
+![rewiew, retrospektif toplantı](https://user-images.githubusercontent.com/99040081/167481758-8b2a370f-fee5-440f-81d1-171c196c45fc.PNG)
+
 
 # Sprint 2
 
