@@ -17,7 +17,7 @@ Takım Space-911
  --Meetime--
 
 ## Ürün Açıklaması
-* Meetime uygulamamız ile ortak ilgi alanlarına sahip yakın konumdaki insanların iletişim kurmasını, gerçek hayatta görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki network alanı yaratmasını sağlayacağız. 
+* Meetime uygulamamız ile ortak ilgi alanlarına sahip yakın konumdaki insanların iletişim kurmasını, gerçek hayatta görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki network alanı yaratmasını sağlayacağız. Meetime ile şehrinde kendi network alanınla tanış!
 
 ## Ürün Özellikleri
 
@@ -78,5 +78,30 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 # Sprint 2
+* **Sprint Notları:** İlk sprintte uygulamanın UI UX arayüzüne karar verilip ve tasarımın ana şeması belirlenen uygulamanın kodlama aşamasına geçildi.
+* **Sprint içinde tamamlanması tahmin edilen puan:** 150 Puan
+* **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in iş yükü açısından 150 puan ile devam etmesi gerektiğine karar verildi.
+* **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+* **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Meet, Slack ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
+
+* **Sprint board update:** Sprint board screenshotları: 
+
+
+* **Ürün Durumu:** Ekran görüntüleri:
+
+
+* **Sprint Review:** Alınan kararlar: 
+
+  Sprint Review katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
+
+
+* **Sprint Retrospective:**
+
+Sprint Retrospective katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
+
+
+
 
 # Sprint 3
